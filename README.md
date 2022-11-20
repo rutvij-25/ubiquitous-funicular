@@ -12,8 +12,10 @@
 ### Problems encountered
 
 - The model could not detect words like 'polygon','uniswap' and 'web3'.
-- 'web3' was absent in the training set but 'polygon' and 'uniswap' were present
+- 'web3' was absent in the training set but 'polygon' and 'uniswap' were present (only a few instances)
 - Possible Solutions
   1. Include term_abb and term_def files in the training set
   2. Train for more epochs
   3. Change model architecture and hyperparameter tuning
+  4. Add more datapoints containing these words
+
