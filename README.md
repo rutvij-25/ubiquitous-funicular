@@ -17,4 +17,3 @@
   1. Include term_abb and term_def files in the training set
   2. Train for more epochs
   3. Change model architecture and hyperparameter tuning
-
