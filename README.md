@@ -1,6 +1,6 @@
 # ubiquitous-funicular
 
-Key Highlights
+### Key Highlights
 
 1. Fine-tuned a BERT-base using transformers and PyTorch library
 2. Run the notebook line by line  
