@@ -8,6 +8,7 @@
 4. 10% of the data was used for testing, the distribution is as follows, train -> (4933 no + 2942 yes) and test -> (549 no + 327 yes)
 5. The model was trained for 3 epochs using Kaggle GPUs
 6. An accuracy of 93.0365 was achieved on test set (92.6 accuracy by taking 500 datapoints with distribution as, (3133 no + 2942 yes) and test -> (349 no + 327 yes)
+7. Frequency counts of words in various dataset is uploaded on github and final predictions of data.csv file is submitted with the google form
 
 ### Problems encountered
 
