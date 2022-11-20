@@ -7,7 +7,7 @@
 3. For training I've used all datapoints from crypto_results and random 1000 datapoints from news,food,sports,art and music results
 4. 10% of the data was used for testing, the distribution is as follows, train -> (4933 no + 2942 yes) and test -> (549 no + 327 yes)
 5. The model was trained for 3 epochs using Kaggle GPUs
-6. An accuracy of 93.0365 was achieved on test set
+6. An accuracy of 93.0365 was achieved on test set (92.6 accuracy by taking 500 datapoints with distribution as, (3133 no + 2942 yes) and test -> (349 no + 327 yes)
 
 ### Problems encountered
 
